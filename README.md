@@ -1,6 +1,4 @@
 # hello-world
-Test repository
-
 Sup haters
 
 It's me, Big Beef. We out here 24/7.
